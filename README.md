@@ -144,6 +144,7 @@ Through these projects, I gained practical experience in:
 B.Tech CSE (AI & ML) Student
 
 GitHub: https://github.com/AryanFultariya271107
+
 Linkedin: www.linkedin.com/in/aryan-fultariya-7566b5377
 
 ---
